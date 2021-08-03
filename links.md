@@ -2,6 +2,7 @@
 
 ## Analytics:
 * [Etherscan](https://etherscan.io/): ETH address/contract/tx lookup
+* [bybt](https://www.bybt.com/): Crypto futures data (funding, LSRs, liquidations, etc...)
 * [Glassnode](https://glassnode.com/): Pretty much all the on-chain macro data you could ever want
 * [DefiLlama](https://defillama.com/home): Comprehensive DeFi TVL meter by sector/project/etc... 
 * [Dune](https://duneanalytics.com/home): Write SQL to query all sorts of ETH data and visualize it with web dashboards
@@ -20,3 +21,8 @@
 * [vfat](https://vfat.tools/): Text-based minimalist (no js bloat) yield farming dashboard
 * [Chainalysis](https://markets.chainalysis.com/): Global macro but make it on-chain
 * [coin360](https://coin360.com/): Visual sector map of cryptocurrencies by mkt cap and hash type
+* [CryptoQuant](https://cryptoquant.com): More inflow-outflow charting dashboards
+* [LunarCrush](https://lunarcrush.com): Social media mention analytics for altcoins
+* [AltcoinSeason](https://www.blockchaincenter.net/altcoin-season-index/): is it altcoin season?
+* [BTC supply visualized](https://www.blockchaincenter.net/bitcoin-supply/): less analytics but still very fun
+* [cryptorank](https://cryptorank.io/upcoming-ico): view upcoming ICOs
