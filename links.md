@@ -26,3 +26,35 @@
 * [AltcoinSeason](https://www.blockchaincenter.net/altcoin-season-index/): is it altcoin season?
 * [BTC supply visualized](https://www.blockchaincenter.net/bitcoin-supply/): less analytics but still very fun
 * [cryptorank](https://cryptorank.io/upcoming-ico): view upcoming ICOs
+
+## Lending:
+* [aave](https://aave.com/)
+* [compound](https://compound.finance/)
+* [maker](www.makerdao.com)
+* [cream](https://cream.finance/)
+* [alchemix](https://alchemix.fi/)
+
+## AMMs:
+* [curve](https://curve.fi/)
+* [sushiswap](https://sushi.com/)
+* [uniswap](https://uniswap.org/)
+* [balancer](https://balancer.fi/)
+* [bancor](https://bancor.network/)
+
+## Derivatives:
+* [synthetix](https://synthetix.io)
+* [nexus mutual](https://nexusmutual.io/)
+* [dydx](https://dydx.exchange/)
+* [perpetual protocol](https://perp.exchange/)
+* [hegic](https://www.hegic.co/)
+* [augur](https://augur.net/)
+
+## Asset Management:
+* [step](https://step.finance/)
+* [zapper](https://zapper.fi/dashboard)
+* [liquidityfolio](https://www.liquidityfolio.com/#)
+* [revert_](https://revert.finance/)
+* [instadapp](https://instadapp.io/)
+
+## Utility:
+* [tornado](https://tornado.cash/)
