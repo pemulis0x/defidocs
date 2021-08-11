@@ -28,7 +28,7 @@
 * [cryptorank](https://cryptorank.io/upcoming-ico): view upcoming ICOs
 
 ## Lending:
-* [aave](https://aave.com/)
+* [aave](https://aave.com/): [co-founder twitter](https://twitter.com/JordanLzG)
 * [compound](https://compound.finance/)
 * [maker](www.makerdao.com)
 * [cream](https://cream.finance/)
@@ -36,21 +36,21 @@
 
 ## AMMs:
 * [curve](https://curve.fi/)
-* [sushiswap](https://sushi.com/)
+* [sushiswap](https://sushi.com/): [0xMaki on FTX](https://open.spotify.com/episode/1KS9rKu03NeKtHClHtHOqS?si=ba83da0ca6114310)
 * [uniswap](https://uniswap.org/)
 * [balancer](https://balancer.fi/)
 * [bancor](https://bancor.network/)
 
 ## Derivatives:
-* [synthetix](https://synthetix.io)
+* [synthetix](https://synthetix.io): [twitter](https://twitter.com/synthetix_io): [Kain Warwick on SOL pod](https://open.spotify.com/episode/5pdb9v9Hvk7bhgkQDf6G4P?si=232c3d7048894fe6)
 * [nexus mutual](https://nexusmutual.io/)
 * [dydx](https://dydx.exchange/)
-* [perpetual protocol](https://perp.exchange/)
+* [perpetual protocol](https://perp.exchange/):[twitter](https://twitter.com/perpprotocol): [Yenwen Feng on FTX pod](https://open.spotify.com/episode/1OY9nVzFJBBFIgBHukbmcX?si=04fbf23d257a4a07)
 * [hegic](https://www.hegic.co/)
 * [augur](https://augur.net/)
 
 ## Asset Management:
-* [step](https://step.finance/)
+* [step.fi](https://step.finance/): [twitter](https://twitter.com/StepFinance_): [Founder on SOL pod](https://open.spotify.com/episode/1Q5LlvKyp3Rn2LK5J4xfnj?si=13287e825ed946fc): [founder twitter](https://twitter.com/George_harrap)
 * [zapper](https://zapper.fi/dashboard)
 * [liquidityfolio](https://www.liquidityfolio.com/#)
 * [revert_](https://revert.finance/)
@@ -58,3 +58,15 @@
 
 ## Utility:
 * [tornado](https://tornado.cash/)
+* [chainlink](https://chain.link/): [Sergey's twitter](https://twitter.com/SergeyNazarov): [Sergey & Anatoly podcast](https://open.spotify.com/episode/0rQlUWj1wLLqTHiXi8hZss?si=0368d40a6af04440)
+
+## Gaming:
+* [Axie Infinity](https://axieinfinity.com/): [twitter](https://twitter.com/AxieInfinity): [Jiho Twitter](https://twitter.com/Jihoz_Axie): [Jiho & Anatoly](https://open.spotify.com/episode/3KLfLvzEFZlyB9w8d8hcb2?si=b9ad4ebeb0eb417d)
+
+
+## Funds:
+* [Spartan Capital](http://spartangroup.io/index.html): [twitter](https://twitter.com/TheSpartanGroup): [Jasen Choi & Anatoly](https://open.spotify.com/episode/07VRG926FYts8pTipAbUEN?si=964b4b87ae6b4de3)
+* [a16z GP Balaji Srinivasan on SOL podcast](https://open.spotify.com/episode/5UZNCHLMt2mW3DWzfgwIgO?si=6967aa69114a43d0)
+* [Sino Global](https://twitter.com/sinoglobalcap): [Matty on FTX pod](https://open.spotify.com/episode/4kPrsSOr2hd6CWqDHqrUzW?si=8646b203547d4e85)
+* [alameda](https://www.alameda-research.com/): [Caroline Ellison on FTX pod](https://open.spotify.com/episode/6zgsxa1UehRl1ca56AFrDL?si=c6f390cc67a74268): [Nate Parke on FTX pod](https://open.spotify.com/episode/5mmUYR4m3v96maU6f2sN8t?si=ab7afe063db041f0)
+
