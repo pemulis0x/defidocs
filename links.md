@@ -70,3 +70,9 @@
 * [Sino Global](https://twitter.com/sinoglobalcap): [Matty on FTX pod](https://open.spotify.com/episode/4kPrsSOr2hd6CWqDHqrUzW?si=8646b203547d4e85)
 * [alameda](https://www.alameda-research.com/): [Caroline Ellison on FTX pod](https://open.spotify.com/episode/6zgsxa1UehRl1ca56AFrDL?si=c6f390cc67a74268): [Nate Parke on FTX pod](https://open.spotify.com/episode/5mmUYR4m3v96maU6f2sN8t?si=ab7afe063db041f0)
 
+
+## Podcasts:
+* [The FTX Podcast](https://open.spotify.com/show/58z92qTTWcgFkhnkJg5PWH?si=Jqk8Ef6PQ5udZ2j4ITaZmg&dl_branch=1)
+* [UpOnly](https://open.spotify.com/show/5E8JGuJEfKXi3p9vH0Vjz4?si=J7ej0hRTTS6SOlSh3_DLjg&dl_branch=1)
+* [The No Sharding Podcast (iykyk)](https://open.spotify.com/show/5m24z58eqLGgxMLHHxNCwV?si=_8kIC-TeRxyQyv7ByvoW0A&dl_branch=1)
+* [Technical Roundup](https://open.spotify.com/show/745BkWn6VM3JqGw510k16U?si=L7Em142ZRi2fibKuShijNg&dl_branch=1)
