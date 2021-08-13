@@ -1,6 +1,6 @@
 # Helpful Links:
 
-## Analytics:
+## General Analytics:
 * [Etherscan](https://etherscan.io/): ETH address/contract/tx lookup
 * [bybt](https://www.bybt.com/): Crypto futures data (funding, LSRs, liquidations, etc...)
 * [Glassnode](https://glassnode.com/): Pretty much all the on-chain macro data you could ever want
@@ -76,3 +76,7 @@
 * [UpOnly](https://open.spotify.com/show/5E8JGuJEfKXi3p9vH0Vjz4?si=J7ej0hRTTS6SOlSh3_DLjg&dl_branch=1)
 * [The No Sharding Podcast (iykyk)](https://open.spotify.com/show/5m24z58eqLGgxMLHHxNCwV?si=_8kIC-TeRxyQyv7ByvoW0A&dl_branch=1)
 * [Technical Roundup](https://open.spotify.com/show/745BkWn6VM3JqGw510k16U?si=L7Em142ZRi2fibKuShijNg&dl_branch=1)
+
+
+## NFTS:
+* [rarity.tools](https://rarity.tools/)
